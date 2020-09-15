@@ -10,6 +10,7 @@ Public interested in a parallel implementation of GL-SHADE using CUDA, you can v
 In order to run the code, you need python 3 installed on your computer and the following python packages: 
 - numpy 
 - cec2013lsgo  
+
 Documentation and steps for installing the cec2013lsgo package can be consulted here (https://pypi.org/project/cec2013lsgo/).
 
 ## Running the program 
