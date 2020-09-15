@@ -3,3 +3,13 @@ This source code implements the GL-SHADE algorithm presented in the paper "A SHA
 
 ### gl-shade-cuda
 Public interested in a parallel implementation of GL-SHADE using CUDA, you can visit https://github.com/delmoral313/gl-shade. 
+
+## Getting Started
+
+### Prerequisites
+In order to run the code, you need python 3 installed on your computer and the following python packages: 
+- numpy 
+- cec2013lsgo  
+
+## Running the program 
+Write here. 
