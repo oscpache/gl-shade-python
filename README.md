@@ -18,7 +18,7 @@ For running the program you just need to type the following command on terminal:
 - $ python3 glshade.py 
 
 ### Selecting the objective function and number of executions
-By default the program drives one execution per objective function and set the 12th problem of the CEC'13 LSGO Benchmark as the objective function. These parameters can be changed easily. For doing so take a look at lines 11 and 12 of the main program (glshade.py) and realize that there are two control parameters which can be modified according our needs 
+By default the program drives one execution per objective function and set the 12th problem of the CEC'13 LSGO Benchmark as the objective function. These parameters can be changed easily. For doing so take a look at lines 11 and 12 of the main program (glshade.py) and realize that there are two control parameters which can be modified according our needs: 
 - number_executions 
 - Functions. 
 
