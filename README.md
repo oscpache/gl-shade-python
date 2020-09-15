@@ -14,4 +14,5 @@ In order to run the code, you need python 3 installed on your computer and the f
 Documentation and steps for installing the cec2013lsgo package can be consulted here (https://pypi.org/project/cec2013lsgo/).
 
 ## Running the program 
-Write here. 
+For running the program you just need to type the following command on terminal:
+- $ python3 glshade.py 
