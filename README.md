@@ -16,3 +16,6 @@ Documentation and steps for installing the cec2013lsgo package can be consulted 
 ## Running the program 
 For running the program you just need to type the following command on terminal:
 - $ python3 glshade.py 
+
+### Selecting the objective function and number of executions
+Write here. 
